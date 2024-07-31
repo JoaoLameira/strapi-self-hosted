@@ -1,4 +1,9 @@
-# Strapi - Postgres - Docker
+# Strapi CMS - Postgres and Docker
+
+## Prerequisites
+
+- Node.js 18
+- Npm / yarn
 
 ### Development
 
